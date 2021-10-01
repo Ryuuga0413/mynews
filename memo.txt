@@ -1,0 +1,5 @@
+実行の時使用
+cd ~/environment/mynews
+php artisan serve --port=8080
+
+git remote set-url git@github.com:Ryuuga0413/mynews.git
