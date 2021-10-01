@@ -3,3 +3,8 @@ cd ~/environment/mynews
 php artisan serve --port=8080
 
 git remote set-url git@github.com:Ryuuga0413/mynews.git
+
+git add .
+git commit -m "コミットメッセージ"
+git push origin main
+
